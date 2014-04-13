@@ -1,3 +1,1 @@
-#My test README.md file.
-
-##Coursera example
+## This is a markdown file
